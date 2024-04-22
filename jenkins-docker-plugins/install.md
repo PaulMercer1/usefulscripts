@@ -19,4 +19,4 @@
   ![](dockerplugins.png)
   ![](cloudbees.png)
 
-5. Click Install and then ""
+5. Click Install and wait for Jenkins to complete the install.
